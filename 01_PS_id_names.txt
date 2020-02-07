@@ -1,0 +1,320 @@
+PS_id	PS_name
+PS100300	Adams-Oliver syndrome
+PS101800	Acrodysostosis
+PS104290	Alternating hemiplegia of childhood
+PS104500	Amelogenesis imperfecta
+PS105250	Amyloidosis, primary localized cutaneous
+PS105400	Amyotrophic lateral sclerosis
+PS105550	Frontotemporal dementia and/or Amyotrophic Lateral Sclerosis
+PS105650	Diamond-Blackfan anemia
+PS106600	Tooth agenesis, selective
+PS107250	Anterior segment dysgenesis
+PS107970	Arrhythmogenic right ventricular dysplasia
+PS108300	Stickler syndrome
+PS108600	Spastic ataxia
+PS108720	Atelosteogenesis
+PS108800	Atrial septal defect
+PS109730	Aortic valve disease
+PS112240	Cole-Carpenter syndrome
+PS113900	Progressive familial heart block
+PS114580	Familial candidiasis
+PS115150	Cardiofaciocutaneous syndrome
+PS115200	Dilated cardiomyopathy
+PS115210	Familial restrictive cardiomyopathy
+PS116200	Cataract
+PS117550	Sotos syndrome
+PS118100	Klippel-Feil syndrome
+PS118220	Charcot-Marie-Tooth disease
+PS118450	Alagille syndrome
+PS119530	Orofacial cleft
+PS120100	Familial cold autoinflammatory syndrome
+PS120435	Colorectal cancer, hereditary nonpolyposis
+PS121200	Seizures, benign familial neonatal
+PS121210	Seizures, familial febrile
+PS122000	Corneal dystrophy, posterior polymorphous
+PS122470	Cornelia de Lange syndrome
+PS123100	Craniosynostosis
+PS124900	Deafness, autosomal dominant
+PS126800	Duane retraction syndrome
+PS127000	Kenny-Caffey syndrome
+PS127550	Dyskeratosis congenita
+PS128100	Dystonia
+PS131100	Multiple endocrine neoplasia
+PS132400	Epiphyseal dysplasia, multiple
+PS133100	Erythrocytosis, familial
+PS133780	Exudative vitreoretinopathy
+PS134600	Fanconi renotubular syndrome
+PS135500	Zimmermann-Laband syndrome
+PS135700	Fibrosis of extraocular muscles, congenital
+PS135900	Coffin-Siris syndrome
+PS136500	Focal facial dermal dysplasia
+PS136520	Foveal hypoplasia
+PS136760	Frontonasal dysplasia
+PS136800	Corneal dystrophy, Fuchs endothelial
+PS142690	Acne inversa
+PS143880	Hypercalcemia, infantile
+PS145260	Pseudohypoaldosteronism, type II
+PS145980	Hypocalciuric hypercalcemia
+PS147920	Kabuki syndrome
+PS147950	Hypogonadotropic hypogonadism with or without anosmia
+PS151100	LEOPARD syndrome
+PS151623	Li-Fraumeni syndrome
+PS151660	Lipodystrophy, familial partial
+PS153100	Lymphedema, Hereditary
+PS153840	Macular dystrophy, vitelliform
+PS154500	Treacher Collins syndrome
+PS156200	Mental retardation, autosomal dominant
+PS156610	Skin creases, congenital symmetric circumferential
+PS157600	Mirror movements
+PS157640	Progressive external ophthalmoplegia with mtDNA deletions
+PS158350	Cowden disease
+PS158600	Spinal muscular atrophy, lower extremity-predominant
+PS158810	Bethlem myopathy
+PS159000	Muscular dystrophy, limb-girdle, autosomal dominant
+PS160120	Episodic ataxia
+PS160150	Myopathy, centronuclear
+PS160565	Myopathy, tubular aggregate
+PS160700	Myopia
+PS160900	Myotonic dystrophy
+PS161050	Nail disorder, nonsyndromic congenital
+PS161800	Nemaline myopathy
+PS162000	Hyperuricemic nephropathy, familial juvenile
+PS162400	Hereditary sensory and autonomic neuropathy
+PS163950	Noonan syndrome
+PS164400	Spinocerebellar ataxia
+PS165500	Optic atrophy
+PS166200	Osteogenesis imperfecta
+PS167200	Pachyonychia congenita
+PS167250	Paget bone
+PS168000	Paragangliomas
+PS168600	Parkinson disease
+PS169150	Macular dystrophy, patterned
+PS173900	Polycystic kidney disease
+PS174050	Polycystic liver disease
+PS175100	Familial adenomatous polyposis
+PS175780	Porencephaly
+PS175800	Porokeratosis
+PS176670	Progeria
+PS177900	Psoriasis
+PS178600	Pulmonary hypertension, primary
+PS179850	Reticulate pigment disorders
+PS180849	Rubinstein-Taybi syndrome
+PS182250	Singleton-Merten syndrome
+PS183600	Split-hand/foot malformation
+PS185800	Proximal symphalangism
+PS186500	Multiple synostoses syndrome
+PS187300	Telangiectasia, hereditary hemorrhagic
+PS187950	Thrombocythemia
+PS188050	Thrombophilia
+PS188550	Thyroid cancer, nonmedullary
+PS189800	Preeclampsia/eclampsia
+PS190300	Tremor, hereditary essential
+PS190440	Trigonocephaly, isolated
+PS191100	Tuberous sclerosis
+PS192500	Long QT syndrome
+PS192600	Cardiomyopathy, familial hypertrophic
+PS193000	Vesicoureteral reflux
+PS193100	Hypophosphatemic rickets
+PS193500	Waardenburg syndrome
+PS193900	White sponge nevus
+PS194070	Wilms tumor
+PS200600	Achondrogenesis
+PS201000	Carpenter syndrome
+PS202200	Glucocorticoid deficiency
+PS202700	Neutropenia, severe congenital
+PS203100	Oculocutaneous albinism
+PS203300	Hermansky-Pudlak syndrome
+PS204000	Leber congenital amaurosis
+PS208000	Generalized arterial calcification of infancy
+PS208085	Arthrogryposis, renal dysfunction, and cholestasis
+PS208500	Short-rib thoracic dysplasia
+PS209900	Bardet-Biedl syndrome
+PS210200	Methylcrotonylglycinuria
+PS210600	Seckel syndrome
+PS211400	Bronchiectasis
+PS211530	Brown-Vialetto-Van Laere syndrome
+PS212065	Congenital disorders of glycosylation, type I
+PS212066	Congenital disorders of glycosylation, type II
+PS213300	Joubert syndrome
+PS213600	Basal ganglia calcification, idiopathic
+PS214100	Peroxisome biogenesis disorder
+PS214150	Cerebrooculofacioskeletal syndrome
+PS214450	Griscelli syndrome
+PS214700	Diarrhea, congenital
+PS215100	Rhizomelic chondrodysplasia punctata
+PS218330	Cranioectodermal dysplasia
+PS220210	Ritscher-Schinzel syndrome
+PS220290	Deafness, autosomal recessive
+PS220400	Jervell and Lange-Nielsen syndrome
+PS222470	Trichohepatoenteric syndrome
+PS224050	Cerebellar ataxia, mental retardation, and dysequilibrium
+PS224120	Anemia, congenital dyserythropoietic
+PS224690	Meier-Gorlin syndrome
+PS225750	Aicardi-Goutieres syndrome
+PS227650	Fanconi anemia
+PS228520	Fibrochondrogenesis
+PS229200	Brittle cornea syndrome
+PS231050	Geleophysic dysplasia
+PS231090	Hydatidiform mole, recurrent
+PS231200	Bleeding disorder, platelet-type
+PS233300	Ovarian dysgenesis
+PS233400	Perrault syndrome
+PS234200	Neurodegeneration with brain iron accumulation
+PS235200	Hemochromatosis
+PS236100	Holoprosencephaly
+PS236670	Muscular dystrophy-dystroglycanopathy, type A
+PS236730	Urofacial syndrome
+PS237450	Hyperbilirubinemia
+PS239300	Hyperphosphatasia with mental retardation syndrome
+PS241550	Hypoplastic left heart syndrome
+PS242300	Ichthyosis, congenital, autosomal recessive
+PS242860	Immunodeficiency-centromeric instability-facial anomalies
+PS243310	Baraitser-Winter syndrome
+PS244400	Primary ciliary dyskinesia
+PS248370	Mandibuloacral dysplasia with lipodystrophy
+PS248600	Maple syrup urine disease
+PS249000	Meckel syndrome
+PS249270	Thiamine-responsive dysfunction syndrome
+PS249500	Mental retardation, autosomal recessive
+PS250950	3-Methylglutaconic aciduria
+PS251200	Microcephaly, primary autosomal recessive
+PS251270	Microcephaly and chorioretinopathy
+PS251450	Desbuquois dysplasia
+PS251600	Microphthalmia, isolated
+PS252150	Molybdenum cofactor deficiency
+PS252350	Moyamoya disease
+PS253310	Lethal congenital contracture syndrome
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive
+PS254090	Ullrich congenital muscular dystrophy
+PS254130	Miyoshi muscular dystrophy
+PS254800	Epilepsy, progressive myoclonic
+PS256100	Nephronophthisis
+PS256300	Nephrotic syndrome
+PS256450	Hyperinsulinemia hypoglycemia
+PS256520	Neu-Laxova syndrome
+PS256730	Ceroid lipofuscinoses
+PS257300	Mosaic variegated aneuploidy syndrome
+PS257920	3MC syndrome
+PS258150	Spermatogenic failure
+PS259100	Hypertropic osteoarthropathy, primary
+PS259700	Osteopetrosis, autosomal recessive
+PS259900	Hyperoxaluria, primary
+PS260370	Pancreatic agenesis
+PS265120	Sufactant metabolism dysfunction, pulmonary
+PS265450	Pulmonary venoocclusive disease
+PS266600	Inflammatory bowel disease
+PS266900	Senior-Loken syndrome
+PS268000	Retinitis pigmentosa
+PS268310	Robinow syndrome
+PS269500	Sclerosteosis
+PS270300	Peeling skin syndrome
+PS271930	Striatonigral degeneration
+PS272430	Cold-induced sweating syndrome
+PS273750	Three M syndrome
+PS275200	Hypothyroidism, congenital, nongoitrous
+PS276700	Tyrosinemia
+PS276900	Usher syndrome
+PS277180	Vas deferens, congenital bilateral aplasia of
+PS277300	Spondylocostal dysostosis
+PS277450	Vitamin K-dependent clotting factors, combined deficiency of
+PS277600	Weill-Marchesani syndrome
+PS278300	Xanthinuria
+PS300000	Opitz GBBB syndrome
+PS300009	Dent disease
+PS300345	Microphthalmia, isolated, with coloboma
+PS300352	Cerebral creatine deficiency syndrome
+PS300633	Hypospadias
+PS300751	Anemia, Sideroblastic
+PS303350	Spastic paraplegia
+PS304500	Deafness, X-linked
+PS305100	Ectodermal dysplasia (select examples)
+PS305620	Frontometaphyseal dysplasia
+PS306400	Granulomatous disease, chronic
+PS306955	Heterotaxy, visceral
+PS308230	Immunodeficiency with hyper-IgM
+PS308240	Lymphoproliferative syndrome
+PS308350	Epileptic encephalopathy, early infantile
+PS309510	Mental retardation, X-linked syndromic
+PS309530	Mental retardation, nonsyndromic, X-linked
+PS309800	Microphthalmia, syndromic
+PS309801	Linear skin defects with multiple congenital anomalies
+PS310300	Emery-Dreifuss muscular dystrophy
+PS310500	Night blindness, congenital stationary
+PS310700	Nystagmus, congenital
+PS312080	Leukodystrophy, hypomyelinating
+PS312170	Pyruvate dehydrogenase complex deficiency
+PS400044	46,XY sex reversal
+PS600118	Warburg micro syndrome
+PS600165	Nanophthalmos
+PS600462	Myopathy, lactic acidosis, and siderblastic anemia
+PS600512	Epilepsy, familial temporal lobe
+PS600513	Epilepsy, nocturnal frontal lobe
+PS600630	UV-sensitive syndrome
+PS600721	D-2-hydroxyglutaric aciduria
+PS601144	Brugada syndrome
+PS601198	Hypocalcemia
+PS601390	Van Maldergem syndrome
+PS601419	Myofibrillar myopathy
+PS601462	Myasthenic syndrome, congenital
+PS601495	Agammaglobulinemia
+PS601675	Trichothiodystrophy
+PS601678	Bartter syndrome
+PS601764	Seizures, benign familial infantile
+PS602014	Hypomagnesemia
+PS602483	Auriculocondylar syndrome
+PS603041	Mitochondrial DNA depletion syndrome
+PS603278	Focal segmental glomerulosclerosis
+PS603387	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+PS603513	Spastic quadriplegic cerebral palsy
+PS604004	Leukoencephalopathy, megalencephalic
+PS604169	Left ventricular noncompaction
+PS604233	Epilepsy, generalized, with febrile seizures plus
+PS604348	Advanced sleep phase syndrome
+PS604364	Epilepsy, familial focal, with variable foci
+PS604772	Ventricular tachycardia, catecholaminergic polymorphic
+PS604931	Cortisone reductase deficiency
+PS605389	Hypotrichosis
+PS605432	Radioulnar synostosis with amegakaryocytic thrombocytopenia
+PS605711	Multiple mitochondrial dysfunctions syndrome
+PS606215	Atrioventricular septal defect
+PS607014	Mucopolysaccharidoses
+PS607086	Aortic aneurysm, familial thoracic
+PS607326	Smith-McCort dysplasia
+PS607411	Patent ductus arteriosus
+PS607426	Coenzyme Q10 deficiency, primary
+PS607432	Lissencephaly
+PS607594	Immunodeficiency, common variable
+PS607596	Pontocerebellar hypoplasia
+PS607634	Osteopetrosis, autosomal dominant
+PS607765	Bile acid synthesis defect, congenital
+PS608567	Sick sinus syndrome
+PS608583	Atrial fibrillation, familial
+PS608594	Lipodystrophy, congenital generalized
+PS608808	Transposition of the great arteries, dextro-looped
+PS609060	Combined oxidative phosphorylation deficiency
+PS609129	Auditory neuropathy
+PS609161	Striatal degeneration, autosomal dominant
+PS609192	Loeys-Dietz syndrome
+PS609308	Muscular dystrophy-dystroglycanopathy, type C
+PS609620	Short QT syndrome
+PS610489	Pigmented nodular adrenocortical disease, primary
+PS610542	Myasthenic syndrome, congenital, with tubular aggregates
+PS610799	Invasive pneumococcal disease, recurrent isolated
+PS612199	Cerebroretinal microangiopathy with calcfications and cysts
+PS612286	Nephrolithiasis/osteoporosis, hypophosphatemic
+PS613038	Pituitary hormone deficiency, combined
+PS613155	Muscular dystrophy-dystroglycanopathy, type B
+PS613280	Hypermanganesemia with dystonia
+PS614039	Cortical dysplasia, complex, with other brain malformations
+PS614080	Multiple congenital anomalies-hypotonia-seizures syndrome
+PS614372	Lectin complement activation pathway defects
+PS614388	Encephalopathy due to defective mitochondrial and peroxisomal fission
+PS614429	Ventricular septal defect
+PS614675	Bone marrow failure syndrome
+PS614742	Pulmonary fibrosis and/or bone marrow failure, telomere-related
+PS615040	Familial episodic pain syndrome
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies
+PS615774	Oocyte maturation defect
+PS615895	Polyglucosan body myopathy
+PS615952	Autoimmune disease, multisystem, infantile-onset
+PS616814	Preimplantation embryonic lethality
