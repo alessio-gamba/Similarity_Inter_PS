@@ -12,5 +12,5 @@ File '03_similarity_coefficients_BSNs.txt' reports the clinical similarity coeff
 
 'Similarity_go_hpo.py' is the Python script for the calculation of similarity among PS. It requires complete ontologies, as also annotations of genes and diseases, from both GO and HPO.
 
-'Omim_tools' (1 and 2) are directly imported and used by the scripts for the computation.
+'Omim_tools' (1 and 2) are tools directly imported and used in two scripts for the computation.
 
