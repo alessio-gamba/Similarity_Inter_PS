@@ -1,3 +1,6 @@
+# Python 2.7
+# This script requires two folders called 'in_data' and 'out_data'
+
 from Omim_tools_2 import *
 	
 t0 = clock()
@@ -10,7 +13,7 @@ inp = (
 ('in_data/go-basic.obo', 'GO:0005575', 'out_data/new_gene2go.txt', 2, 'out_data/PS_Sim_CC.txt'),
 ('in_data/go-basic.obo', 'GO:0003674', 'out_data/new_gene2go.txt', 2, 'out_data/PS_Sim_MF.txt'))
 
-inp = inp[3] # this is to change, depending by the input you want (0, 1, 2 or 3)
+inp = inp[3] # change this, depending by the input you want (0, 1, 2 or 3)
 
 obo = inp[0]
 root = inp[1]
