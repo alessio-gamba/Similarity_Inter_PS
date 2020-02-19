@@ -1,4 +1,4 @@
-from Omim_functions_1 import *
+from Omim_tools_1 import *
 
 
 # 1) build new morbidmap txt from original morbidmap 
@@ -23,24 +23,3 @@ D_annotation = Import_mim2hp('in_data/OMIM_ALL_FREQUENCIES_diseases_to_genes_to_
 Print_dict(D_annotation, 'out_data/new_mim2hp.txt')
 D_annotation = Import_gene2go('in_data/gene2go')
 Print_dict(D_annotation, 'out_data/new_gene2go.txt')
-
-
-# Phenotypes :
-# ------------
-#
-# Each Phenotype is followed by its MIM number, if different from that
-# of the locus/gene, and then followed by its phenotype mapping
-# key in parentheses (explanation below).
-#
-#
-# Phenotype Mapping key - Appears in parentheses after a disorder :
-# -----------------------------------------------------------------
-#
-# (1) The disorder is placed on the map based on its association with
-# a gene, but the underlying defect is not known.
-# (2) The disorder has been placed on the map by linkage or other
-# statistical method; no mutation has been found.
-# (3) The molecular basis for the disorder is known; a mutation has been
-# found in the gene.
-# (4) A contiguous gene deletion or duplication syndrome, multiple genes
-# are deleted or duplicated causing the phenotype.
