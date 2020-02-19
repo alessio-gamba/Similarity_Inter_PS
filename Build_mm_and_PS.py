@@ -1,3 +1,6 @@
+# Python 2.7
+# The script requires two folders called 'in_data' and 'out_data'
+
 from Omim_tools_1 import *
 
 
