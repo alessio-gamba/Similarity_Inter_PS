@@ -1,4 +1,4 @@
-from Omim_fun_2 import *
+from Omim_tools_2 import *
 	
 t0 = clock()
 
