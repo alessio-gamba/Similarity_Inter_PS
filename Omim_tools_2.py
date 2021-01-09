@@ -113,7 +113,7 @@ def Remove_prefix(D1, x): # the prefix in D keys is from x to end [x:]
 	return D2
 
 
-# reduce a dictionary values using anly valid values
+# reduce a dictionary values using only valid values
 def Reduce_D_values(D1, valid):
 	D2 = dict()
 	for key, val in D1.items():
